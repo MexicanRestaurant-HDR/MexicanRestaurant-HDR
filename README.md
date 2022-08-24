@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MexicanRestaurant-HDR
-- 👀 I’m interested in mexican restaurants and Food
+- 👋 Hi, I’m @MexicanRestaurant-HDR!
+- 👀 I’m interested in mexican restaurants and food.
 - 🌱 I’m currently learning how to cook!
 - 💞️ I’m looking to collaborate on finding good mexican restaurants.
 
